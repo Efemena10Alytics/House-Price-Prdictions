@@ -1,4 +1,4 @@
-# House-Price-Prdictions
+# House-Price-Predictions
 Building my first repository
 
 ![image](https://www.shutterstock.com/image-vector/isolated-cartoon-houses-set-simple-260nw-492399352.jpg)
